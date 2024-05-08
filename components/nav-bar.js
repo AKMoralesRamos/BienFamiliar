@@ -42,7 +42,7 @@ export class NavBar extends LitElement {
     }
     .logo {
       min-width: 10px;
-      padding: 0 10px;
+      padding: 3px 25px;
     }
     .logo-letters {
       min-width: 36%;
