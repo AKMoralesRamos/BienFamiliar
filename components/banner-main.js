@@ -73,7 +73,8 @@ export class BannerMain extends LitElement {
       height: 50px;
       border-radius: 10px;
       background-color: #ff2768;
-      box-shadow: 1px 1px 1px rgba(255, 39, 104, 0.4);
+      /* box-shadow: 1px 1px 1px rgba(255, 39, 104, 0.4); */
+      box-shadow: 4px 3px 31px -7px rgba(0, 0, 0, 0.75);
       transition: box-shadow 0.1s ease;
       border: none;
       color: #fff;

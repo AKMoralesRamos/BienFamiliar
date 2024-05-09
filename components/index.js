@@ -4,3 +4,4 @@ import { ButtonGeneral } from "./button-general";
 import { NavBar } from "./nav-bar";
 import { BannerMain } from "./banner-main";
 import { FooterMain } from "./footer-main";
+import { MiAgenda } from "./mi-agenda";
