@@ -4,7 +4,7 @@ export class PropuestaValor extends LitElement {
   static styles = css`
     .iconPink {
       width: 30%;
-      height: 100px;
+      height: 110px;
     }
     .container {
       max-width: 1500px;
