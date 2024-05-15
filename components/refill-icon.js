@@ -55,6 +55,7 @@ export class RefillIcon extends LitElement {
         <section class="message">
           <p>¡No esperes a que te duela!</p>
           <h1>La prevención es el mejor tratamiento.</h1>
+        <!--   <slot></slot> -->
         </section>
       </div>
     `;
